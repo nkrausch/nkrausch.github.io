@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc, currently working at Noartis.
+I am a Postdoc, currently working at Novartis. I model and optimize bioprocesses through hybrid models and model predictive control.
 
 Reserach interests
 ======
  - Model Predictive Control
- - Bioprocesses
  - Hybrid modeling
  - Physics-Informed Neural Networks
- - Optimizaiton
-
+ - Optimization
