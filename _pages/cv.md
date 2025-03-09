@@ -11,35 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Bioprocess Engineering, Supervisor: Peter Neubauer, TU Berlin, 2024
+* Visisting PhD student in the group of Mark Cannon, University of Oxford, 2023
+* Visisting PhD student in the group of Antonio Del Rio Chanona, Imperial College London, 2022
+* Visisting PhD student in the group of Paolo Arosio, ETH Zurich, 2020
+* M.S. in Biotechnology, TU Berlin, 2018
+* Exchange student, DTU, Denmark, 2016
+* B.S. in Biotechnology, TU Berlin, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Postdoc
+  * Novartis
+  * Building hybrid models for USP processes
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2024: Postdoc
+  * TU Berlin
+  * Application of MPC for bioprocesses
+  * Supervisors: Peter Neubauer, Nico Cruz
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020: Reserach intern
+  * DataHow AG
+  * Experience in the field of modern data analysis and (hybrid) modelling of biopharmaceutical processes
+
+* 2019-2020: Reserach Assistant
+  * TU Berlin
+  * High-throughput cultivations and model-based characterization of microbials
+  * Supervisor: Peter Neubauer, Nico Cruz
+
+* Fall 2017: Student intern
+  * Robert Koch Institute
+  * Development of a standard process visualization tool with D3 and Python in context of fast and robust bioinformatics procedures for high-throughput experiments
+
+* Summer 2015: Bachelor thesis
+  * DIZG – German Institute for cell and tissue replacement gGmbH
+  * Worked with human tissue like epidermal tissue and human amniotic membranes
+  * Established a method for protein extraction and statistical data analysis with GraphPad Prism.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
@@ -52,13 +68,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* FAIR4Chem Award 2022
