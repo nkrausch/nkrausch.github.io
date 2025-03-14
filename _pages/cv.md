@@ -21,9 +21,10 @@ Education
 
 Work experience
 ======
-* Summer 2024: Postdoc
+* Summer 2024 -- Present: Postdoc
   * Novartis
   * Building hybrid models for USP processes
+  * Implementing model predictive control in early phase development
 
 * Summer 2024: Postdoc
   * TU Berlin

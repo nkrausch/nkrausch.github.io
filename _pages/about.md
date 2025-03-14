@@ -14,4 +14,4 @@ Reserach interests
  - Model Predictive Control
  - Hybrid modeling
  - Physics-Informed Neural Networks
- - Optimization
+ - (Convex) Optimization
